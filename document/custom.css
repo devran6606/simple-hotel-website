@@ -1,0 +1,17 @@
+  .h-100 {
+    height: 20rem
+  }
+
+.w-100rem {
+    width: 130rem;
+}
+
+.h-30rem {
+    height: 30rem;
+  }
+
+  @media only screen and (max-width: 1200px) {
+    .h-30rem {
+     height: auto;
+    }
+  }
